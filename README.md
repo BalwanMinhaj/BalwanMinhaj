@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS, Tailwind CSS, Redux.**
 
-- 👨‍💻 All of my projects are available at [https://mbbm-portfolio.vercel.app/](https://mbbm-portfolio.vercel.app/)
+- 👨‍💻 My [Portfolio](https://mbbm-portfolio.vercel.app/)
 
 - 📫 How to reach me **balwanminhaj01@gmail.com**
 
