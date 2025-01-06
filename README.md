@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Minhaj</h1>
 <h3 align="left">I am CS student interested in frontend and designing</h3>
 
-- 🔭 I’m currently working on a marketplace platform for students. **CampusPlatz**
+- 🔭 I’m currently working on a marketplace platform for students. **CampusPlatz.com**
 
 - 🌱 I’m currently learning **Next JS, Tailwind CSS, Redux.**
 
